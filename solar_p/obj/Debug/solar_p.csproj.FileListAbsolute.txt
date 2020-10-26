@@ -1,0 +1,10 @@
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\bin\Debug\solar_p.exe.config
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\bin\Debug\solar_p.exe
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\bin\Debug\solar_p.pdb
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.csprojAssemblyReference.cache
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.Form1.resources
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.Properties.Resources.resources
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.csproj.GenerateResource.cache
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.csproj.CoreCompileInputs.cache
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.exe
+C:\Users\akdum\OneDrive\Masaüstü\solar_p\obj\Debug\solar_p.pdb
